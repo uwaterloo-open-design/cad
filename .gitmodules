@@ -1,0 +1,30 @@
+[submodule "psas-sw-cad-common"]
+	path = psas-sw-cad-common
+	url = https://github.com/psas/sw-cad-common.git
+[submodule "tools/ReplaceReference"]
+	path = tools/ReplaceReference
+	url = https://github.com/jasonnicholson/ReplaceReference.git
+[submodule "tools/sldworks-stl-exporter"]
+	path = tools/sldworks-stl-exporter
+	url = https://github.com/safwanc/sldworks-stl-exporter.git
+[submodule "nasa-3d-resources"]
+	path = nasa-3d-resources
+	url = https://github.com/nasa/NASA-3D-Resources.git
+[submodule "autocad/pyautocad"]
+	path = autocad/pyautocad
+	url = https://github.com/reclosedev/pyautocad.git
+[submodule "autocad/AutoCAD-Utils"]
+	path = autocad/AutoCAD-Utils
+	url = https://github.com/alexeispirit/AutoCAD-Utils.git
+[submodule "solidworks/sldworks-stl-exporter"]
+	path = solidworks/sldworks-stl-exporter
+	url = https://github.com/safwanc/sldworks-stl-exporter.git
+[submodule "solidworks/ReplaceReference"]
+	path = solidworks/ReplaceReference
+	url = https://github.com/jasonnicholson/ReplaceReference.git
+[submodule "solidworks/psas-sw-cad-common"]
+	path = solidworks/psas-sw-cad-common
+	url = https://github.com/psas/sw-cad-common.git
+[submodule "autocad/AutoCAD-Net-Wizards"]
+	path = autocad/AutoCAD-Net-Wizards
+	url = https://github.com/ADN-DevTech/AutoCAD-Net-Wizards.git
